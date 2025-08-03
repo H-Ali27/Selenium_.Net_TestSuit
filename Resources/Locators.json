@@ -1,0 +1,15 @@
+{
+    "LoginPage": {
+        "UsernameField": "//div/form/input[1]",
+        "PasswordField": "//div/form/input[2]",
+        "LoginButton": "//div/form/input[3]"
+    },
+    "InventoryPage": {
+        "Product1": "//div[@class='inventory_item'][1]/div[3]//button",
+        "Product2": "//div[@class='inventory_item'][4]/div[3]//button",
+        "SelectDropdown": "//div[@class='header_secondary_container']//select",
+        "Option": "//div[@class='header_secondary_container']//select/option[2]",
+        "Product3": "//div[@class='inventory_item'][2]/div[3]//button",
+        "Product4": "//div[@class='inventory_item'][3]/div[3]//button"
+    }
+}

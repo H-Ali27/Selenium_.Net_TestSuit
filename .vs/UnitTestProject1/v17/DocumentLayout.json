@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\login\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|solutionrelative:login\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|e:\\selenium practice\\heckathone01\\unittestproject1\\baseclass\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|solutionrelative:baseclass\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\products\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|solutionrelative:products\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\executionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|solutionrelative:executionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\testdata\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|solutionrelative:testdata\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\resources\\locators.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A64DF231-A145-4D11-83A6-ECA6339670A4}|UnitTestProject1.csproj|solutionrelative:resources\\locators.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "productsPage.cs",
+              "DocumentMoniker": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\Products\\productsPage.cs",
+              "RelativeDocumentMoniker": "Products\\productsPage.cs",
+              "ToolTip": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\Products\\productsPage.cs",
+              "RelativeToolTip": "Products\\productsPage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T19:53:10.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Locators.json",
+              "DocumentMoniker": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\Resources\\Locators.json",
+              "RelativeDocumentMoniker": "Resources\\Locators.json",
+              "ToolTip": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\Resources\\Locators.json",
+              "RelativeToolTip": "Resources\\Locators.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-02T17:16:19.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "baseclass.cs",
+              "DocumentMoniker": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\BaseClass\\baseclass.cs",
+              "RelativeDocumentMoniker": "BaseClass\\baseclass.cs",
+              "ToolTip": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\BaseClass\\baseclass.cs",
+              "RelativeToolTip": "BaseClass\\baseclass.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T15:38:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\TestData\\DataModel.cs",
+              "RelativeDocumentMoniker": "TestData\\DataModel.cs",
+              "ToolTip": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\TestData\\DataModel.cs",
+              "RelativeToolTip": "TestData\\DataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:30:56.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\Login\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Login\\LoginPage.cs",
+              "ToolTip": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\Login\\LoginPage.cs",
+              "RelativeToolTip": "Login\\LoginPage.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:15:20.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExecutionClass.cs",
+              "DocumentMoniker": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\ExecutionClass.cs",
+              "RelativeDocumentMoniker": "ExecutionClass.cs",
+              "ToolTip": "E:\\Selenium Practice\\Heckathone01\\UnitTestProject1\\ExecutionClass.cs",
+              "RelativeToolTip": "ExecutionClass.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:46:34.722Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
