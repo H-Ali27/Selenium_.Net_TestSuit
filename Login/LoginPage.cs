@@ -17,6 +17,8 @@ namespace UnitTestProject1
         //By password = By.XPath("//div/form/input[2]");
         //By login = By.XPath("//div/form/input[3]");
         productsPage pp = new productsPage();
+        Cartpage cp = new Cartpage();   
+        InformationPage ip = new InformationPage();    
         public void Valid_login(string url)
         {
             string json = File.ReadAllText("E:/Selenium Practice/Heckathone01/UnitTestProject1/Resources/Locators.json");
@@ -42,6 +44,14 @@ namespace UnitTestProject1
                 extentreport.Parent_log("Inventory Page");
                 extentreport.Child_log("Products Selection & Sorting");
                 pp.products();
+                //Cart Page
+                extentreport.Parent_log("Cart Page");
+                extentreport.Child_log("Products Cart");
+                cp.CartPage();
+                //Checkout Page
+                extentreport.Parent_log("CheckOut Page");
+                extentreport.Child_log("Check Out Information");
+                ip.Information();
             }
 
         }

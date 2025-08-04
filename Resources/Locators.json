@@ -10,6 +10,19 @@
         "SelectDropdown": "//div[@class='header_secondary_container']//select",
         "Option": "//div[@class='header_secondary_container']//select/option[2]",
         "Product3": "//div[@class='inventory_item'][2]/div[3]//button",
-        "Product4": "//div[@class='inventory_item'][3]/div[3]//button"
+        "Product4": "//div[@class='inventory_item'][5]/div[3]//button"
+    },
+    "CartPage": {
+        "CartIcon": "//div[@class='header_container']//div/a",
+        "CartItem1": "//div[@class='cart_item'][3]//button",
+        "CartItem2": "//div[@class='cart_item'][2]//button",
+        "ContShop": "//div[@class='cart_footer']/a[1]",
+        "CheckOut": "//div[@class='cart_footer']/a[2]"
+    },
+    "InformationPage": {
+        "InfoHeader": "//div[@class='subheader']",
+        "fname": "//form//input[@placeholder='First Name']",
+        "lname": "//form//input[@placeholder='Last Name']",
+        "Postal": "//form//input[@placeholder='Zip/Postal Code']"
     }
 }

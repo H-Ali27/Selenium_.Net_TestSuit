@@ -452,8 +452,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseClass\baseclass.cs" />
+    <Compile Include="Cart\Cartpage.cs" />
     <Compile Include="ExecutionClass.cs" />
     <Compile Include="ExtentReport\extentreport.cs" />
+    <Compile Include="Information\InformationPage.cs" />
     <Compile Include="Login\LoginPage.cs" />
     <Compile Include="Products\productsPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
